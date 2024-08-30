@@ -1,8 +1,0 @@
-C:\Users\Cypher\source\repos\DownloadsOrg\DownloadsOrg\bin\Debug\DownloadsOrg.exe.config
-C:\Users\Cypher\source\repos\DownloadsOrg\DownloadsOrg\bin\Debug\DownloadsOrg.exe
-C:\Users\Cypher\source\repos\DownloadsOrg\DownloadsOrg\bin\Debug\DownloadsOrg.pdb
-C:\Users\Cypher\source\repos\DownloadsOrg\DownloadsOrg\obj\Debug\DownloadsOrg.csproj.AssemblyReference.cache
-C:\Users\Cypher\source\repos\DownloadsOrg\DownloadsOrg\obj\Debug\DownloadsOrg.csproj.SuggestedBindingRedirects.cache
-C:\Users\Cypher\source\repos\DownloadsOrg\DownloadsOrg\obj\Debug\DownloadsOrg.csproj.CoreCompileInputs.cache
-C:\Users\Cypher\source\repos\DownloadsOrg\DownloadsOrg\obj\Debug\DownloadsOrg.exe
-C:\Users\Cypher\source\repos\DownloadsOrg\DownloadsOrg\obj\Debug\DownloadsOrg.pdb
