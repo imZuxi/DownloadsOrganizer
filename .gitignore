@@ -5,3 +5,12 @@
 /.vs/DownloadsOrg
 /.idea/.idea.DownloadsOrg/.idea
 /DownloadsOrg/.idea/.idea.DownloadsOrg.dir/.idea
+/DownloadsOrg/bin/Release/Renamed
+/DownloadsOrg/bin/Release/DownloadsOrganizer-Guard.exe
+/DownloadsOrg/bin/Release/DownloadsOrganizer.exe
+/DownloadsOrg/bin/Release/DownloadsOrganizer.pdb
+/DownloadsOrg/bin/Debug/DownloadsOrg.exe.config
+*.exe
+*.pdb
+*.config
+/DownloadsOrg/bin/Debug/DownloadsOrg.pdb
